@@ -102,7 +102,7 @@ This page highlights **customer demographics, income influence, and geographic i
 **Shikha Pandey**  
 _Aspiring Data Analyst | Power BI | SQL | Excel_  
 📍 New Delhi, India  
-📧 [your.email@example.com]
+📧 [shikha.pandey0604@gmail.com]
 
 ---
 

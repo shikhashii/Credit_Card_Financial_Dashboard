@@ -1,6 +1,6 @@
-# 💳 Credit Card Transaction & Customer Analysis Dashboard (Power BI)
+# Credit Card Transaction & Customer Analysis Dashboard
 
-## 📘 Project Overview
+## Project Overview
 This Power BI dashboard provides an in-depth analysis of **credit card transactions and customer behavior** throughout the year.  
 It highlights **revenue performance, spending patterns, card category usage, and customer demographics**.  
 
@@ -11,28 +11,19 @@ The goal of this dashboard is to help financial stakeholders understand:
 
 ---
 
-## ⚙️ Tools & Technologies
-- **Power BI Desktop** – Dashboard development  
-- **DAX (Data Analysis Expressions)** – Custom KPI calculations  
-- **Power Query** – Data cleaning & transformation  
-- **Excel / CSV** – Data source  
-- **Visualization Techniques** – Bar charts, line graphs, KPIs, slicers, and interactive filters  
-
----
-
-## 🧾 Dataset Description
+## Dataset Description
 The dataset contains details of:
 - **Credit Card Transactions** (amount, type, interest, card category, payment method)
 - **Customer Demographics** (age, gender, marital status, income, job type, education, and location)
 
 ---
 
-## 📊 Dashboard Sections
+## Dashboard Sections
 
-### 1️⃣ **Credit Card Transaction Report**
+### **Credit Card Transaction Report**
 This page focuses on the **financial metrics** and **transaction-level performance**.
 
-#### 🔑 KPIs
+#### KPIs
 | Metric | Value |
 |--------|--------|
 | **Total Revenue** | 55M |
@@ -40,7 +31,7 @@ This page focuses on the **financial metrics** and **transaction-level performan
 | **Total Transaction Amount** | 45M |
 | **Total Transaction Count** | 656K |
 
-#### 💡 Insights
+#### Insights
 - **Blue** and **Silver** credit cards dominate, contributing the **highest revenue and transaction volume**.  
 - **Blue card** generated around **46M**, followed by **Silver (6M)**, **Gold (2M)**, and **Platinum (1M)**.
 - **Swipe** transactions are most common (**35M**), followed by **Chip (17M)** and **Online (3M)**.
@@ -50,10 +41,10 @@ This page focuses on the **financial metrics** and **transaction-level performan
 
 ---
 
-### 2️⃣ **Credit Card Customer Report**
+### **Credit Card Customer Report**
 This page highlights **customer demographics, income influence, and geographic insights**.
 
-#### 🔑 KPIs
+#### KPIs
 | Metric | Value |
 |--------|--------|
 | **Total Revenue** | 55M |
@@ -61,7 +52,7 @@ This page highlights **customer demographics, income influence, and geographic i
 | **Total Income** | 576M |
 | **Customer Satisfaction Score (CSS)** | 3.19 |
 
-#### 💡 Insights
+#### Insights
 - **Male customers** contribute around **30M**, while **female customers** contribute **25M** to revenue.
 - **Age group 40–50** leads in revenue generation (**25M**), followed by **50–60 (19M)** and **30–40 (9M)**.
 - **TX, NY, and CA** are the top-performing states, each contributing around **6–7M** in revenue.
@@ -71,7 +62,7 @@ This page highlights **customer demographics, income influence, and geographic i
   
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights
 - **Blue and Silver cards** are the most profitable card categories.
 - **TX, NY, and CA** are the most revenue-generating states.
 - **Swipe-based transactions** are the most used payment mode.
@@ -82,27 +73,20 @@ This page highlights **customer demographics, income influence, and geographic i
 
 ---
 
-## 🧠 Analytical Skills Demonstrated
+## Analytical Skills Demonstrated
 - **Data Modeling:** Relationship creation between customer and transaction tables.
 - **DAX Measures:** Custom KPIs for revenue, interest, count, income, and satisfaction score.
 - **Power Query:** Data transformation, cleaning, and formatting.
 - **Visualization Design:** Consistent color theme, interactive slicers and filters, and KPI alignment.
 - **Insight Generation:** Translating raw data into actionable business metrics.
 
----
+ ## Tools & Technologies
+- **Power BI Desktop** – Dashboard development  
+- **DAX (Data Analysis Expressions)** – Custom KPI calculations  
+- **Power Query** – Data cleaning & transformation  
+- **Excel / CSV** – Data source  
+- **Visualization Techniques** – Bar charts, line graphs, KPIs, slicers, and interactive filters  
 
-## 📁 Deliverables
-- `Customers & Transactions Dataset` – CSV Files
-- `Credit_Card_Report_Dashboard.pdf` – Exported Dashboard (2 pages)  
-- `README.md` – Documentation 
-
----
-
-## 👤 Author
-**Shikha Pandey**  
-_Aspiring Data Analyst | Power BI | SQL | Excel_  
-📍 New Delhi, India  
-📧 [shikha.pandey0604@gmail.com]
 
 ---
 

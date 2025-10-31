@@ -86,9 +86,3 @@ This page highlights **customer demographics, income influence, and geographic i
 - **Power Query** – Data cleaning & transformation  
 - **Excel / CSV** – Data source  
 - **Visualization Techniques** – Bar charts, line graphs, KPIs, slicers, and interactive filters  
-
-
----
-
-### ⭐ Summary
-> “This Power BI dashboard converts credit card transaction and customer data into actionable business insights — helping financial teams understand revenue drivers, customer behavior, and opportunities for growth.”
